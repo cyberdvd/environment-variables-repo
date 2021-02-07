@@ -1,0 +1,7 @@
+spring:
+    profiles:
+        active: native
+
+property-file:
+  name: Dev
+  description: Dev Environment Properties
