@@ -4,4 +4,4 @@ spring:
 
 property-file:
   name: Dev
-  description: Dev Environment Properties
+  description: Dev Environment Properties. From GITHUB
